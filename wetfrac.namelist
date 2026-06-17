@@ -1,0 +1,6 @@
+&parameter
+  name = pr
+  out_name = wetf
+  long_name = "fraction of days in the month with > 0.2mm precipitation"
+  units = "fraction"
+/
